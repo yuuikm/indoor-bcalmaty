@@ -60,19 +60,19 @@ function ObjectsSix({ handleObjectClick, className }: ObjectsSixProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 612"
+        id="ИП «Акку»"
         className={`${className} object`}
         d="M1436.4 686.7h22.3c0-15.5-.2-31-.3-46.5V518.6h-144V721h122v-34.4Z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 613"
+        id="1.ТОО «Mini Winnie» 2.ТОО «Attila2023»"
         className={`${className} object`}
         d="M1386 811.3h50.4v-61.7h-389.8V891H1020v20.4h366V811.3Z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 616"
+        id="ТОО «BVS Logistics»"
         className={`${className} object`}
         d="M970.4 794h49.8v-75.1H874.8v192.4h95.7V793.9h-.1Z"
         onClick={handleObjectClick}
@@ -90,31 +90,31 @@ function ObjectsSix({ handleObjectClick, className }: ObjectsSixProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 624"
+        id="АО «СК»Казахмыс»"
         className={`${className} object`}
         d="M191.3 763.5V594.3H4.1v169.2h187.2z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 600"
+        id="ТОО «LEGAL DURECTION»"
         className={`${className} object`}
         d="M191.3 594.3v-81.9H4.1v81.9h187.2z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 601"
+        id="ТОО «DZHANDOSOV SOFT»"
         className={`${className} object`}
         d="M191.3 512.4V369.8H4.1v142.6h187.2z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 603"
+        id="ИП «ArtLine»"
         className={`${className} object`}
         d="M313.9 510v-70.9h-94.4V510h94.4z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 604"
+        id="ТОО «ELCOS marketing»"
         className={`${className} object`}
         d="M313.9 481.7h61v-42.6h-61v42.6z"
         onClick={handleObjectClick}
@@ -126,31 +126,31 @@ function ObjectsSix({ handleObjectClick, className }: ObjectsSixProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 622"
+        id="«ONE CONSULTING»"
         className={`${className} object`}
         d="M501.8 691.3v-97h-72.1v97h72.1z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 621"
+        id="ИП «VICUS»"
         className={`${className} object`}
         d="M602.9 691.3v-97H501.8v97h101.1z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 619"
+        id="ИП «REAL AUTORENT»"
         className={`${className} object`}
         d="M688.3 691.3V565.4h-85.4v125.9h85.4z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 618"
+        id="ИП «Тоқтанова»"
         className={`${className} object`}
         d="M764.1 691.3V565.4h-75.8v125.9h75.8z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 617"
+        id="ТОО «CART COMPANY»"
         className={`${className} object`}
         d="M836.7 691.3V565.4h-72.6v125.9h72.6z"
         onClick={handleObjectClick}
@@ -162,7 +162,7 @@ function ObjectsSix({ handleObjectClick, className }: ObjectsSixProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 614"
+        id="ИП«ULPA»"
         className={`${className} object`}
         d="M1281.4 721.1V566.2h-101.1v154.9h101.1z"
         onClick={handleObjectClick}

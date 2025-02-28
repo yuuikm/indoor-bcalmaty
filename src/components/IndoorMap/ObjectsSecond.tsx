@@ -42,7 +42,7 @@ function ObjectsSecond({ handleObjectClick, className }: ObjectsSecondProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 207"
+        id="ТОО «LIGHTHouse Kazakhstan»"
         className={`${className} object`}
         d="M865.5 510.4c0-63.8.4-272.1.8-272.1h104.6v98.8h72.5v173.3H865.6Z"
         onClick={handleObjectClick}
@@ -54,13 +54,13 @@ function ObjectsSecond({ handleObjectClick, className }: ObjectsSecondProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 209"
+        id="ТОО «АДИЛИ ТЕКСТИЛЬ»"
         className={`${className} object`}
         d="M1458.4 518.6V237.7h-144v280.9h144z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 210"
+        id="ТОО «BestProfi»"
         className={`${className} object`}
         d="M1436.4 691.8h22.3c0-13.2-.2-26.4-.3-39.5V548.9h-144v172.2h122v-29.2Z"
         onClick={handleObjectClick}
@@ -72,13 +72,13 @@ function ObjectsSecond({ handleObjectClick, className }: ObjectsSecondProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 214"
+        id="ТОО «Современная защита»"
         className={`${className} object`}
         d="M970.4 794h49.8v-75.1H874.8v192.4h95.7V793.9Z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 216"
+        id="ТОО «Проект инвест групп»"
         className={`${className} object`}
         d="M874.7 911.4V719H764.1v192.4h110.6Z"
         onClick={handleObjectClick}
@@ -90,7 +90,7 @@ function ObjectsSecond({ handleObjectClick, className }: ObjectsSecondProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 220"
+        id="ТОО «CART Company»"
         className={`${className} object`}
         d="M602.2 911.4V719H429.6v74.8c16.3 0 32.6.2 49 .3v117.4h123.6Z"
         onClick={handleObjectClick}
@@ -102,19 +102,19 @@ function ObjectsSecond({ handleObjectClick, className }: ObjectsSecondProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 224"
+        id="ИП «Дэя»"
         className={`${className} object`}
         d="M191.3 763.5V588.2H4.1v175.3h187.2z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 200"
+        id="ТОО «Компания международных транспортных услуг Чэньсин Кахан»"
         className={`${className} object`}
         d="M191.3 588.7v-69.3H4.1v69.3h187.2z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 201"
+        id="1.ТОО «SCC GROUP» 2.ТОО «Sky Capital Construction»"
         className={`${className} object`}
         d="M191.3 519.4V369.8H4.1v149.6h187.2z"
         onClick={handleObjectClick}
@@ -144,37 +144,37 @@ function ObjectsSecond({ handleObjectClick, className }: ObjectsSecondProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 221"
+        id="ТОО«ЕвроТрейдингЦентр»"
         className={`${className} object`}
         d="M602.9 691.3V548.6H501.8v142.7h101.1z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 219"
+        id="ТОО «Типл ААА»"
         className={`${className} object`}
         d="M688.3 691.3V588.2h-85.4v103.1h85.4z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 217"
+        id="ТОО «ABC Compressor»"
         className={`${className} object`}
         d="M764.1 691.3V588.2h-75.8v103.1h75.8z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 215"
+        id="ТОО ОП LEGION"
         className={`${className} object`}
         d="M836.7 691.3V588.2h-72.6v103.1h72.6z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 213"
+        id="ИП «ТЮННИГ ТЕЛА»"
         className={`${className} object`}
         d="M1020.4 690.7h55c0 10.1-.1 20.2-.2 30.3h105.1V588.1h-159.9v102.6Z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 212"
+        id="ТОО «Адили текстиль»"
         className={`${className} object`}
         d="M1281.4 721.1V588.2h-101.1v132.9h101.1z"
         onClick={handleObjectClick}

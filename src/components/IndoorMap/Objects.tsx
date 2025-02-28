@@ -6,19 +6,19 @@ function Objects({ handleObjectClick, className }: ObjectsProps) {
   return (
     <g id="Objects">
       <path
-        id="Арендатор 100"
+        id="ТОО BM Development Group"
         className={`${className} object`}
         d="M419.7 419.3v-68.8H313V420h106.7v-.7z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 101"
+        id="Омаров Данияр Камирдинович"
         className={`${className} object`}
         d="M550.3 520.4v-71H456v71H550.3z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 102"
+        id="Ломбард «Золотое Руно»"
         className={`${className} object`}
         d="M419.7 350.5V420h221.4V248.7H347.2v101.7h72.4Z"
         onClick={handleObjectClick}
@@ -36,43 +36,43 @@ function Objects({ handleObjectClick, className }: ObjectsProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 105"
+        id="ИП «APPAQ»"
         className={`${className} object`}
         d="M733.2 608.5v-52.3h-87.4v52.3h87.4z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 106"
+        id="ИП «ГАЗАРОВА»"
         className={`${className} object`}
         d="M733.2 661.7v-52.3h-87.4v52.3h87.4z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 107"
+        id="One stop Servise «Бір Қадам»"
         className={`${className} object`}
         d="M732.9 248.7v278.1h278.3V248.7H732.9z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 108"
+        id="ИП «Success Together»"
         className={`${className} object`}
         d="M1121.3 517.2h101.4V248.7h-211.5v278.1h110.1v-9.6z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 109"
+        id="«ALLIGATOR SCM»"
         className={`${className} object`}
         d="M1086.1 698.5V556.2h-74.8v142.3h74.8z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 110"
+        id="«TOBE»"
         className={`${className} object`}
         d="M1120.8 728v173.1h101.9V728h-101.9z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 111"
+        id="ТОО «South Brothers»(Сауз Бразерс)"
         className={`${className} object`}
         d="M1011.3 698.5V556.2h-77.4v142.3h77.4z"
         onClick={handleObjectClick}
@@ -84,25 +84,25 @@ function Objects({ handleObjectClick, className }: ObjectsProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 113"
+        id="«KASSEN GROUP»"
         className={`${className} object`}
         d="M933.9 698.5V556.2H733.2v142.3h200.7z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 114"
+        id="ТОО «ЛИНИЯ СИСТЕМА ВИДЕОНАБЛЮДЕНИЯ»"
         className={`${className} object`}
         d="M733 728v173.1h200.3V728H733z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 115"
+        id="ТОО «KazTransMet»"
         className={`${className} object`}
         d="M465.1 689.6v210.9h181.3V689.6H465.1z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 116"
+        id="Администрация"
         className={`${className} object`}
         d="M465.1 689.6H347v39.6h-83.2v75.7h48.3v95.6h153V689.6z"
         onClick={handleObjectClick}
