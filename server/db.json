@@ -3,7 +3,7 @@
     {
       "id": "100",
       "categoryId": "f1",
-      "name": "ТОО BM Development Group",
+      "name": "BM Development Group",
       "desc": "Кофейня URBO"
     },
     {
@@ -33,13 +33,13 @@
     {
       "id": "105",
       "categoryId": "f1",
-      "name": "ИП «APPAQ»",
+      "name": "APPAQ",
       "desc": "Химчистка"
     },
     {
       "id": "106",
       "categoryId": "f1",
-      "name": "ИП «ГАЗАРОВА»",
+      "name": "ГАЗАРОВА",
       "desc": "ИП «ГАЗАРОВА»"
     },
     {
@@ -51,25 +51,25 @@
     {
       "id": "108",
       "categoryId": "f1",
-      "name": "ИП «Success Together»",
+      "name": "Success Together",
       "desc": "ИП «Success Together»"
     },
     {
       "id": "109",
       "categoryId": "f1",
-      "name": "«ALLIGATOR SCM»",
+      "name": "ALLIGATOR SCM",
       "desc": "Верхняя одежда (шубы,пальто)"
     },
     {
       "id": "110",
       "categoryId": "f1",
-      "name": "«TOBE»",
+      "name": "TOBE",
       "desc": "Натяжные потолки"
     },
     {
       "id": "111",
       "categoryId": "f1",
-      "name": "ТОО «South Brothers»(Сауз Бразерс)",
+      "name": "South Brothers (Сауз Бразерс)",
       "desc": "Сауз Бразес-Юридические и кадровые услуги. Офисная мебель, +7 706 408 69 87, +7 707 258 32 02"
     },
     {
@@ -81,19 +81,19 @@
     {
       "id": "113",
       "categoryId": "f1",
-      "name": "«KASSEN GROUP»",
+      "name": "KASSEN GROUP",
       "desc": "«KASSEN GROUP»"
     },
     {
       "id": "114",
       "categoryId": "f1",
-      "name": "ТОО «ЛИНИЯ СИСТЕМА ВИДЕОНАБЛЮДЕНИЯ»",
+      "name": "ЛИНИЯ СИСТЕМА ВИДЕОНАБЛЮДЕНИЯ",
       "desc": "ТОО «ЛИНИЯ СИСТЕМА ВИДЕОНАБЛЮДЕНИЯ»"
     },
     {
       "id": "115",
       "categoryId": "f1",
-      "name": "ТОО «KazTransMet»",
+      "name": "KazTransMet",
       "desc": "ТОО «KazTransMet»"
     },
     {
@@ -147,13 +147,13 @@
     {
       "id": "200",
       "categoryId": "f2",
-      "name": "ТОО «Компания международных транспортных услуг Чэньсин Кахан»",
+      "name": "Компания международных транспортных услуг Чэньсин Кахан",
       "desc": "ТОО «Компания международных транспортных услуг Чэньсин Кахан»"
     },
     {
       "id": "201",
       "categoryId": "f2",
-      "name": "1.ТОО «SCC GROUP» 2.ТОО «Sky Capital Construction»",
+      "name": "SCC GROUP, Sky Capital Construction",
       "desc": "1.ТОО «SCC GROUP» 2.ТОО «Sky Capital Construction»"
     },
     {
@@ -171,7 +171,7 @@
     {
       "id": "224",
       "categoryId": "f2",
-      "name": "ИП «Дэя»",
+      "name": "Дэя",
       "desc": "ИП «Дэя»"
     },
     {
@@ -219,7 +219,7 @@
     {
       "id": "207",
       "categoryId": "f2",
-      "name": "ТОО «LIGHTHouse Kazakhstan»",
+      "name": "LIGHTHouse Kazakhstan",
       "desc": "ТОО «LIGHTHouse Kazakhstan»"
     },
     {
@@ -231,25 +231,25 @@
     {
       "id": "209",
       "categoryId": "f2",
-      "name": "ТОО «АДИЛИ ТЕКСТИЛЬ»",
+      "name": "АДИЛИ ТЕКСТИЛЬ",
       "desc": "ТОО «АДИЛИ ТЕКСТИЛЬ»"
     },
     {
       "id": "221",
       "categoryId": "f2",
-      "name": "ТОО«ЕвроТрейдингЦентр»",
+      "name": "ЕвроТрейдингЦентр",
       "desc": "Торговля быт.химия и косметика уход."
     },
     {
       "id": "220",
       "categoryId": "f2",
-      "name": "ТОО «CART Company»",
+      "name": "CART Company",
       "desc": "Транспорт экспедиторская компания."
     },
     {
       "id": "219",
       "categoryId": "f2",
-      "name": "ТОО «Типл ААА»",
+      "name": "Типл ААА",
       "desc": "ТОО «Типл ААА»"
     },
     {
@@ -261,19 +261,19 @@
     {
       "id": "217",
       "categoryId": "f2",
-      "name": "ТОО «ABC Compressor»",
+      "name": "ABC Compressor",
       "desc": "ТОО «ABC Compressor»"
     },
     {
       "id": "215",
       "categoryId": "f2",
-      "name": "ТОО ОП LEGION",
+      "name": "ОП LEGION",
       "desc": "ТОО ОП LEGION"
     },
     {
       "id": "216",
       "categoryId": "f2",
-      "name": "ТОО «Проект инвест групп»",
+      "name": "Проект инвест групп",
       "desc": "ТОО «Проект инвест групп»"
     },
     {
@@ -285,19 +285,19 @@
     {
       "id": "214",
       "categoryId": "f2",
-      "name": "ТОО «Современная защита»",
+      "name": "Современная защита",
       "desc": "Юридические услуги"
     },
     {
       "id": "213",
       "categoryId": "f2",
-      "name": "ИП «ТЮННИГ ТЕЛА»",
+      "name": "ТЮННИГ ТЕЛА",
       "desc": "ФИТНЕС ДЛЯ ПОХУДЕНИЯ"
     },
     {
       "id": "212",
       "categoryId": "f2",
-      "name": "ТОО «Адили текстиль»",
+      "name": "Адили текстиль",
       "desc": "ТОО «Адили текстиль»"
     },
     {
@@ -309,7 +309,7 @@
     {
       "id": "210",
       "categoryId": "f2",
-      "name": "ТОО «BestProfi»",
+      "name": "BestProfi",
       "desc": "8 727 357 26 77, IT-КОМПАНИЯ "
     },
     {
@@ -339,13 +339,13 @@
     {
       "id": "300",
       "categoryId": "f3",
-      "name": "ТОО «НҰР АСТАНА ҚҰРЫЛЫС»",
+      "name": "НҰР АСТАНА ҚҰРЫЛЫС",
       "desc": "ТОО «НҰР АСТАНА ҚҰРЫЛЫС»"
     },
     {
       "id": "301",
       "categoryId": "f3",
-      "name": "ТОО «ПрофБухУчет»",
+      "name": "ПрофБухУчет",
       "desc": "Аудит"
     },
     {
@@ -357,7 +357,7 @@
     {
       "id": "303",
       "categoryId": "f3",
-      "name": "ТОО «Киловольт групп»",
+      "name": "Киловольт групп",
       "desc": "ТОО «Киловольт групп»"
     },
     {
@@ -375,7 +375,7 @@
     {
       "id": "306",
       "categoryId": "f3",
-      "name": "ТОО Business Pulse",
+      "name": "Business Pulse",
       "desc": "ТОО Business Pulse"
     },
     {
@@ -387,7 +387,7 @@
     {
       "id": "308",
       "categoryId": "f3",
-      "name": "ТОО «EVS GROUP»",
+      "name": "EVS GROUP",
       "desc": "ТОО «EVS GROUP»"
     },
     {
@@ -411,7 +411,7 @@
     {
       "id": "312",
       "categoryId": "f3",
-      "name": "ТОО «Exploration service»",
+      "name": "Exploration service",
       "desc": "Геолоризведения"
     },
     {
@@ -423,7 +423,7 @@
     {
       "id": "314",
       "categoryId": "f3",
-      "name": "ТОО «ЭкоФармИнтернейшнл»",
+      "name": "ЭкоФармИнтернейшнл",
       "desc": "ТОО «ЭкоФармИнтернейшнл»"
     },
     {
@@ -435,25 +435,25 @@
     {
       "id": "316",
       "categoryId": "f3",
-      "name": "ТОО «Q PROJECTS»",
+      "name": "Q PROJECTS",
       "desc": "ТОО «Q PROJECTS»"
     },
     {
       "id": "317",
       "categoryId": "f3",
-      "name": "ИП «ALL Solutions»",
+      "name": "ALL Solutions",
       "desc": "ИП «ALL Solutions»"
     },
     {
       "id": "318",
       "categoryId": "f3",
-      "name": "ИП «AQNIET trans group»",
+      "name": "AQNIET trans group",
       "desc": "ИП «AQNIET trans group»"
     },
     {
       "id": "319",
       "categoryId": "f3",
-      "name": "ИП «RUFINA»",
+      "name": "RUFINA",
       "desc": "ИП «RUFINA»"
     },
     {
@@ -465,7 +465,7 @@
     {
       "id": "321",
       "categoryId": "f3",
-      "name": "ТОО «Fin-Xaus»",
+      "name": "Fin-Xaus",
       "desc": "ТОО «Fin-Xaus»"
     },
     {
@@ -519,7 +519,7 @@
     {
       "id": "401",
       "categoryId": "f4",
-      "name": "ТОО «TPRESS»",
+      "name": "TPRESS",
       "desc": "ТОО «TPRESS»"
     },
     {
@@ -531,13 +531,13 @@
     {
       "id": "403",
       "categoryId": "f4",
-      "name": "ИП «Alem GROUP»",
+      "name": "Alem GROUP",
       "desc": "Курсы английского языка +7 705 252 75 60"
     },
     {
       "id": "404",
       "categoryId": "f4",
-      "name": "ТОО «INTERBEST»",
+      "name": "INTERBEST",
       "desc": "IT ИНТЕГРАТОР"
     },
     {
@@ -561,7 +561,7 @@
     {
       "id": "408",
       "categoryId": "f4",
-      "name": "ТОО «ИНВЕСТ СТРОЙ ГРУПП»",
+      "name": "ИНВЕСТ СТРОЙ ГРУПП",
       "desc": "ТОО «ИНВЕСТ СТРОЙ ГРУПП»"
     },
     {
@@ -597,7 +597,7 @@
     {
       "id": "414",
       "categoryId": "f4",
-      "name": "ТОО «ADN GROUP»",
+      "name": "ADN GROUP",
       "desc": "Компания по ремонту и отделке квартир т помещении +7 776 400 44 43 - Сырым"
     },
     {
@@ -609,13 +609,13 @@
     {
       "id": "416",
       "categoryId": "f4",
-      "name": "ТОО «ИСТКОНСАЛТ»",
+      "name": "ИСТКОНСАЛТ",
       "desc": "ТОО «ИСТКОНСАЛТ»"
     },
     {
       "id": "417",
       "categoryId": "f4",
-      "name": "ТОО «AUKER»",
+      "name": "AUKER",
       "desc": "Логистическая компания"
     },
     {
@@ -645,7 +645,7 @@
     {
       "id": "422",
       "categoryId": "f4",
-      "name": "ТОО «СМАРТКАМ»",
+      "name": "СМАРТКАМ",
       "desc": "+7 747 567 09 20"
     },
     {
@@ -687,7 +687,7 @@
     {
       "id": "500",
       "categoryId": "f5",
-      "name": "ТОО « Always Logistic»",
+      "name": "Always Logistic",
       "desc": "Логистическая компания"
     },
     {
@@ -705,13 +705,13 @@
     {
       "id": "503",
       "categoryId": "f5",
-      "name": "ИП «QAZAQ TRADE LOGISTIC»",
+      "name": "QAZAQ TRADE LOGISTIC",
       "desc": "ИП «QAZAQ TRADE LOGISTIC»"
     },
     {
       "id": "504",
       "categoryId": "f5",
-      "name": "ТОО «ELCOS marketing»",
+      "name": "ELCOS marketing",
       "desc": "ТОО «ELCOS marketing»"
     },
     {
@@ -723,7 +723,7 @@
     {
       "id": "506",
       "categoryId": "f5",
-      "name": "ИП «AID GROUP»",
+      "name": "AID GROUP",
       "desc": "ИП «AID GROUP»"
     },
     {
@@ -735,7 +735,7 @@
     {
       "id": "508",
       "categoryId": "f5",
-      "name": "ТОО «BAYAT»",
+      "name": "BAYAT",
       "desc": "Строительная отрасль"
     },
     {
@@ -783,13 +783,13 @@
     {
       "id": "516",
       "categoryId": "f5",
-      "name": "ТОО «ТechnoStan»",
+      "name": "ТechnoStan",
       "desc": "ТОО «ТechnoStan»"
     },
     {
       "id": "517",
       "categoryId": "f5",
-      "name": "ТОО «Samruq Qurylys», ТОО «MOVE AND PACK CONSTRUCTION»",
+      "name": "Samruq Qurylys, MOVE AND PACK CONSTRUCTION",
       "desc": "Строительство"
     },
     {
@@ -801,7 +801,7 @@
     {
       "id": "519",
       "categoryId": "f5",
-      "name": "ИП «Асылханов»",
+      "name": "Асылханов",
       "desc": "ИП «Асылханов»"
     },
     {
@@ -825,13 +825,13 @@
     {
       "id": "523",
       "categoryId": "f5",
-      "name": "«Al Shifa»",
+      "name": "Al Shifa",
       "desc": "Черный тмин"
     },
     {
       "id": "524",
       "categoryId": "f5",
-      "name": "«Al Shifa»",
+      "name": "Al Shifa",
       "desc": "Черный тмин"
     },
     {
@@ -861,13 +861,13 @@
     {
       "id": "600",
       "categoryId": "f6",
-      "name": "ТОО «LEGAL DURECTION»",
+      "name": "LEGAL DURECTION",
       "desc": "ТОО «LEGAL DURECTION»"
     },
     {
       "id": "601",
       "categoryId": "f6",
-      "name": "ТОО «DZHANDOSOV SOFT»",
+      "name": "DZHANDOSOV SOFT",
       "desc": "ТОО «DZHANDOSOV SOFT»"
     },
     {
@@ -879,13 +879,13 @@
     {
       "id": "603",
       "categoryId": "f6",
-      "name": "ИП «ArtLine»",
+      "name": "ArtLine",
       "desc": "Товарный бизнес, массажное оборудование"
     },
     {
       "id": "604",
       "categoryId": "f6",
-      "name": "ТОО «ELCOS marketing»",
+      "name": "ELCOS marketing",
       "desc": "ТОО «ELCOS marketing»"
     },
     {
@@ -933,19 +933,19 @@
     {
       "id": "612",
       "categoryId": "f6",
-      "name": "ИП «Акку»",
+      "name": "Акку",
       "desc": "ИП «Акку»"
     },
     {
       "id": "613",
       "categoryId": "f6",
-      "name": "1.ТОО «Mini Winnie» 2.ТОО «Attila2023»",
+      "name": "Mini Winnie, Attila2023",
       "desc": "1.подгузники 2.корм для домашних животных"
     },
     {
       "id": "614",
       "categoryId": "f6",
-      "name": "ИП«ULPA»",
+      "name": "ULPA",
       "desc": "ИП«ULPA»"
     },
     {
@@ -957,25 +957,25 @@
     {
       "id": "616",
       "categoryId": "f6",
-      "name": "ТОО «BVS Logistics»",
+      "name": "BVS Logistics",
       "desc": "Междунароные  грузоперевозки, таможенное  оформление авто ,жд,авиа экспедирование, собственный автопарк"
     },
     {
       "id": "617",
       "categoryId": "f6",
-      "name": "ТОО «CART COMPANY»",
+      "name": "CART COMPANY",
       "desc": "ТОО «CART COMPANY»"
     },
     {
       "id": "618",
       "categoryId": "f6",
-      "name": "ИП «Тоқтанова»",
+      "name": "Тоқтанова",
       "desc": "ИП «Тоқтанова»"
     },
     {
       "id": "619",
       "categoryId": "f6",
-      "name": "ИП «REAL AUTORENT»",
+      "name": "REAL AUTORENT",
       "desc": "ИП «REAL AUTORENT»"
     },
     {
@@ -987,13 +987,13 @@
     {
       "id": "621",
       "categoryId": "f6",
-      "name": "ИП «VICUS»",
+      "name": "VICUS",
       "desc": "Агенство недвижимости"
     },
     {
       "id": "622",
       "categoryId": "f6",
-      "name": "«ONE CONSULTING»",
+      "name": "ONE CONSULTING",
       "desc": "+7 700 569 09 02"
     },
     {
@@ -1005,7 +1005,7 @@
     {
       "id": "624",
       "categoryId": "f6",
-      "name": "АО «СК»Казахмыс»",
+      "name": "СК Казахмыс",
       "desc": "Страховая компания"
     },
     {
@@ -1053,7 +1053,7 @@
     {
       "id": "703",
       "categoryId": "f7",
-      "name": "ИП «Sharipov»",
+      "name": "Sharipov",
       "desc": "ИП «Sharipov»"
     },
     {

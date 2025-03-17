@@ -60,7 +60,7 @@ function ObjectsThird({ handleObjectClick, className }: ObjectsThirdProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="ТОО «Exploration service»"
+        id="Exploration service"
         className={`${className} object`}
         d="M1436.4 686.7h22.3c0-15.5-.2-31-.3-46.5V518.6h-144V721h122v-34.4Z"
         onClick={handleObjectClick}
@@ -72,7 +72,7 @@ function ObjectsThird({ handleObjectClick, className }: ObjectsThirdProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="ТОО «Q PROJECTS»"
+        id="Q PROJECTS"
         className={`${className} object`}
         d="M970.4 794h49.8v-75.1H874.8v192.4h95.7V793.9h-.1Z"
         onClick={handleObjectClick}
@@ -96,19 +96,19 @@ function ObjectsThird({ handleObjectClick, className }: ObjectsThirdProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="ТОО «НҰР АСТАНА ҚҰРЫЛЫС»"
+        id="НҰР АСТАНА ҚҰРЫЛЫС"
         className={`${className} object`}
         d="M191.3 594.3v-81.9H4.1v81.9h187.2z"
         onClick={handleObjectClick}
       />
       <path
-        id="ТОО «ПрофБухУчет»"
+        id="ПрофБухУчет"
         className={`${className} object`}
         d="M191.3 512.4V369.8H4.1v142.6h187.2z"
         onClick={handleObjectClick}
       />
       <path
-        id="ТОО «Киловольт групп»"
+        id="Киловольт групп"
         className={`${className} object`}
         d="M313.9 510v-70.9h-94.4V510h94.4z"
         onClick={handleObjectClick}
@@ -132,25 +132,25 @@ function ObjectsThird({ handleObjectClick, className }: ObjectsThirdProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="ТОО «Fin-Xaus»"
+        id="Fin-Xaus"
         className={`${className} object`}
         d="M602.9 691.3v-97H501.8v97h101.1z"
         onClick={handleObjectClick}
       />
       <path
-        id="ИП «RUFINA»"
+        id="RUFINA"
         className={`${className} object`}
         d="M688.3 691.3V565.4h-85.4v125.9h85.4z"
         onClick={handleObjectClick}
       />
       <path
-        id="ИП «AQNIET trans group»"
+        id="AQNIET trans group"
         className={`${className} object`}
         d="M764.1 691.3V565.4h-75.8v125.9h75.8z"
         onClick={handleObjectClick}
       />
       <path
-        id="ИП «ALL Solutions»"
+        id="ALL Solutions"
         className={`${className} object`}
         d="M836.7 691.3V565.4h-72.6v125.9h72.6z"
         onClick={handleObjectClick}
@@ -162,19 +162,19 @@ function ObjectsThird({ handleObjectClick, className }: ObjectsThirdProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="ТОО «ЭкоФармИнтернейшнл»"
+        id="ЭкоФармИнтернейшнл"
         className={`${className} object`}
         d="M1281.4 721.1V566.2h-101.1v154.9h101.1z"
         onClick={handleObjectClick}
       />
       <path
-        id="ТОО Business Pulse"
+        id="Business Pulse"
         className={`${className} object`}
         d="M501.8 594.3v-45.7h-72.1v45.7h72.1z"
         onClick={handleObjectClick}
       />
       <path
-        id="ТОО «EVS GROUP»"
+        id="EVS GROUP"
         className={`${className} object`}
         d="M602.9 593.7v-45.1H501.8v45.1h101.1z"
         onClick={handleObjectClick}

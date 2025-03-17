@@ -72,7 +72,7 @@ function ObjectsFifth({ handleObjectClick, className }: ObjectsFifthProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="ТОО «ТechnoStan»"
+        id="ТechnoStan"
         className={`${className} object`}
         d="M970.4 794h49.8v-75.1H874.8v192.4h95.7V793.9h-.1Z"
         onClick={handleObjectClick}
@@ -84,19 +84,19 @@ function ObjectsFifth({ handleObjectClick, className }: ObjectsFifthProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="«Al Shifa»"
+        id="Al Shifa"
         className={`${className} object`}
         d="M404.4 911.4V680.6H220.9v115.1c-46.6 0-93.3-.2-139.9-.3v116h323.5-.1Z"
         onClick={handleObjectClick}
       />
       <path
-        id="«Al Shifa»"
+        id="Al Shifa"
         className={`${className} object`}
         d="M191.3 763.5V594.3H4.1v169.2h187.2z"
         onClick={handleObjectClick}
       />
       <path
-        id="ТОО « Always Logistic»"
+        id="Always Logistic"
         className={`${className} object`}
         d="M191.3 594.3v-81.9H4.1v81.9h187.2z"
         onClick={handleObjectClick}
@@ -108,13 +108,13 @@ function ObjectsFifth({ handleObjectClick, className }: ObjectsFifthProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="ИП «QAZAQ TRADE LOGISTIC»"
+        id="QAZAQ TRADE LOGISTIC"
         className={`${className} object`}
         d="M313.9 510v-70.9h-94.4V510h94.4z"
         onClick={handleObjectClick}
       />
       <path
-        id="ТОО «ELCOS marketing»"
+        id="ELCOS marketing"
         className={`${className} object`}
         d="M313.9 481.7h61v-42.6h-61v42.6z"
         onClick={handleObjectClick}
@@ -138,7 +138,7 @@ function ObjectsFifth({ handleObjectClick, className }: ObjectsFifthProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="ИП «Асылханов»"
+        id="Асылханов"
         className={`${className} object`}
         d="M688.3 691.3V565.4h-85.4v125.9h85.4z"
         onClick={handleObjectClick}
@@ -150,7 +150,7 @@ function ObjectsFifth({ handleObjectClick, className }: ObjectsFifthProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="ТОО «Samruq Qurylys», ТОО «MOVE AND PACK CONSTRUCTION»"
+        id="Samruq Qurylys, MOVE AND PACK CONSTRUCTION"
         className={`${className} object`}
         d="M836.7 691.3V565.4h-72.6v125.9h72.6z"
         onClick={handleObjectClick}
@@ -168,13 +168,13 @@ function ObjectsFifth({ handleObjectClick, className }: ObjectsFifthProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="ИП «AID GROUP»"
+        id="AID GROUP"
         className={`${className} object`}
         d="M501.8 594.3v-45.7h-72.1v45.7h72.1z"
         onClick={handleObjectClick}
       />
       <path
-        id="ТОО «BAYAT»"
+        id="BAYAT"
         className={`${className} object`}
         d="M602.9 593.7v-45.1H501.8v45.1h101.1z"
         onClick={handleObjectClick}

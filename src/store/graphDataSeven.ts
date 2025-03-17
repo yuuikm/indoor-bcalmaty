@@ -28,7 +28,7 @@ export const graphDataSeven: GraphDataSeven = {
     { id: "v10", objectName: "Туалет №1 7 этаж", cx: 374.9, cy: 582.2 },
     { id: "v11", objectName: null, cx: 428.4, cy: 561.4 },
     { id: "v12", objectName: null, cx: 529.6, cy: 561.4 },
-    { id: "v13", objectName: "ИП «Sharipov»", cx: 529.6, cy: 602 },
+    { id: "v13", objectName: "Sharipov", cx: 529.6, cy: 602 },
     { id: "v14", objectName: "Арендатор 704", cx: 529.6, cy: 517.7 },
     { id: "v15", objectName: null, cx: 855.8, cy: 561.4 },
     { id: "v16", objectName: null, cx: 855.7, cy: 672.5 },

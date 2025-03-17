@@ -72,7 +72,7 @@ function ObjectsFourth({ handleObjectClick, className }: ObjectsFourthProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="ТОО «ИСТКОНСАЛТ»"
+        id="ИСТКОНСАЛТ"
         className={`${className} object`}
         d="M970.4 794h49.8v-75.1H874.8v192.4h95.7V793.9h-.1Z"
         onClick={handleObjectClick}
@@ -102,19 +102,19 @@ function ObjectsFourth({ handleObjectClick, className }: ObjectsFourthProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="ТОО «TPRESS»"
+        id="TPRESS"
         className={`${className} object`}
         d="M191.3 512.4V369.8H4.1v142.6h187.2z"
         onClick={handleObjectClick}
       />
       <path
-        id="ИП «Alem GROUP»"
+        id="Alem GROUP"
         className={`${className} object`}
         d="M313.9 510v-70.9h-94.4V510h94.4z"
         onClick={handleObjectClick}
       />
       <path
-        id="ТОО «INTERBEST»"
+        id="INTERBEST"
         className={`${className} object`}
         d="M313.9 481.7h61v-42.6h-61v42.6z"
         onClick={handleObjectClick}
@@ -126,7 +126,7 @@ function ObjectsFourth({ handleObjectClick, className }: ObjectsFourthProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="ТОО «СМАРТКАМ»"
+        id="СМАРТКАМ"
         className={`${className} object`}
         d="M501.8 691.3v-97h-72.1v97h72.1z"
         onClick={handleObjectClick}
@@ -150,7 +150,7 @@ function ObjectsFourth({ handleObjectClick, className }: ObjectsFourthProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="ТОО «AUKER»"
+        id="AUKER"
         className={`${className} object`}
         d="M836.7 691.3V565.4h-72.6v125.9h72.6z"
         onClick={handleObjectClick}
@@ -162,7 +162,7 @@ function ObjectsFourth({ handleObjectClick, className }: ObjectsFourthProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="ТОО «ADN GROUP»"
+        id="ADN GROUP"
         className={`${className} object`}
         d="M1281.4 721.1V566.2h-101.1v154.9h101.1z"
         onClick={handleObjectClick}
@@ -174,7 +174,7 @@ function ObjectsFourth({ handleObjectClick, className }: ObjectsFourthProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="ТОО «ИНВЕСТ СТРОЙ ГРУПП»"
+        id="ИНВЕСТ СТРОЙ ГРУПП"
         className={`${className} object`}
         d="M602.9 593.7v-45.1H501.8v45.1h101.1z"
         onClick={handleObjectClick}
