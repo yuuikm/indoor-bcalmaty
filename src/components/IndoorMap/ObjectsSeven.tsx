@@ -36,7 +36,7 @@ function ObjectsSeven({ handleObjectClick, className }: ObjectsSevenProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 701"
+        id="Garant Ipoteki"
         className={`${className} object`}
         d="M313.5 487V339.5H108.7V487h204.8z"
         onClick={handleObjectClick}

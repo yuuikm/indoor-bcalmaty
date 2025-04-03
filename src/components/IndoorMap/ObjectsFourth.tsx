@@ -78,7 +78,7 @@ function ObjectsFourth({ handleObjectClick, className }: ObjectsFourthProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 420"
+        id="REINA GROUP ТОО"
         className={`${className} object`}
         d="M874.7 911.4V719H429.6v74.8c16.3 0 32.6.2 49 .3v117.4h396.1Z"
         onClick={handleObjectClick}
@@ -90,13 +90,13 @@ function ObjectsFourth({ handleObjectClick, className }: ObjectsFourthProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 424"
+        id="MK.PIMC.KZ ТОО, КазУютдомстрой, ТОО АнбинКазИнвест, ПСК CITY ENGINEERING ТОО"
         className={`${className} object`}
         d="M191.3 763.5V594.3H4.1v169.2h187.2z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 400"
+        id="Bolashaq Arman"
         className={`${className} object`}
         d="M191.3 594.3v-81.9H4.1v81.9h187.2z"
         onClick={handleObjectClick}
@@ -138,7 +138,7 @@ function ObjectsFourth({ handleObjectClick, className }: ObjectsFourthProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 419"
+        id="Рекламное агентство"
         className={`${className} object`}
         d="M688.3 691.3V565.4h-85.4v125.9h85.4z"
         onClick={handleObjectClick}
@@ -168,7 +168,7 @@ function ObjectsFourth({ handleObjectClick, className }: ObjectsFourthProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 406"
+        id="Eyeline"
         className={`${className} object`}
         d="M501.8 594.3v-45.7h-72.1v45.7h72.1z"
         onClick={handleObjectClick}

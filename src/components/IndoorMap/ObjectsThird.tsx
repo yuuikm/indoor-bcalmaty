@@ -72,7 +72,7 @@ function ObjectsThird({ handleObjectClick, className }: ObjectsThirdProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Q PROJECTS"
+        id="AUDOO.QZ"
         className={`${className} object`}
         d="M970.4 794h49.8v-75.1H874.8v192.4h95.7V793.9h-.1Z"
         onClick={handleObjectClick}
@@ -90,7 +90,7 @@ function ObjectsThird({ handleObjectClick, className }: ObjectsThirdProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 324"
+        id="Media Peace"
         className={`${className} object`}
         d="M191.3 763.5V594.3H4.1v169.2h187.2z"
         onClick={handleObjectClick}
@@ -132,7 +132,7 @@ function ObjectsThird({ handleObjectClick, className }: ObjectsThirdProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Fin-Xaus"
+        id="DIAMOND"
         className={`${className} object`}
         d="M602.9 691.3v-97H501.8v97h101.1z"
         onClick={handleObjectClick}

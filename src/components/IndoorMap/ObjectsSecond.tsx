@@ -84,7 +84,7 @@ function ObjectsSecond({ handleObjectClick, className }: ObjectsSecondProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 218"
+        id="TECHNO COOL"
         className={`${className} object`}
         d="M764.1 911.4V719H602.2v192.4h161.9Z"
         onClick={handleObjectClick}
@@ -102,7 +102,7 @@ function ObjectsSecond({ handleObjectClick, className }: ObjectsSecondProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Дэя"
+        id="25UNION"
         className={`${className} object`}
         d="M191.3 763.5V588.2H4.1v175.3h187.2z"
         onClick={handleObjectClick}
@@ -120,7 +120,7 @@ function ObjectsSecond({ handleObjectClick, className }: ObjectsSecondProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 203"
+        id="BM Development Group ТОО"
         className={`${className} object`}
         d="M313.9 510v-70.9h-94.4V510h94.4z"
         onClick={handleObjectClick}

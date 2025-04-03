@@ -43,7 +43,7 @@ export const graphDataSeven: GraphDataSeven = {
     { id: "v25", objectName: null, cx: 1072.1, cy: 531.5 },
     { id: "v26", objectName: "Арендатор 708", cx: 1072.1, cy: 517.7 },
     { id: "v27", objectName: "Арендатор 707", cx: 1072.1, cy: 602 },
-    { id: "v28", objectName: "Арендатор 701", cx: 164.8, cy: 487 },
+    { id: "v28", objectName: "Garant Ipoteki", cx: 164.8, cy: 487 },
   ],
 
   edges: [
