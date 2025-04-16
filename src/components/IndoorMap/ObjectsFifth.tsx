@@ -156,7 +156,7 @@ function ObjectsFifth({ handleObjectClick, className }: ObjectsFifthProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 515"
+        id="Стандарт Трест ТОО"
         className={`${className} object`}
         d="M1020.4 685.7h55c0 11.8 0 23.6-.2 35.3h105.1V566.1h-159.9v119.5Z"
         onClick={handleObjectClick}

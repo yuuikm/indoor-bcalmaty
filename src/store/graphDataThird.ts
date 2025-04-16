@@ -26,7 +26,7 @@ export const graphDataThird: GraphDataThird = {
     { id: "v9", objectName: "Media Peace", cx: 157.3, cy: 763.5 },
     { id: "v10", objectName: null, cx: 401.4, cy: 662.1 },
     { id: "v11", objectName: null, cx: 417.2, cy: 662.1 },
-    { id: "v12", objectName: "Арендатор 322", cx: 429.7, cy: 662.1 },
+    { id: "v12", objectName: "NKLogistic Group", cx: 429.7, cy: 662.1 },
     { id: "v13", objectName: null, cx: 205.4, cy: 426.5 },
     { id: "v14", objectName: null, cx: 205.4, cy: 355.6 },
     { id: "v15", objectName: "Арендатор 302", cx: 205.4, cy: 339.1 },
@@ -77,7 +77,7 @@ export const graphDataThird: GraphDataThird = {
     { id: "v64", objectName: null, cx: 1033.6, cy: 773 },
     { id: "v65", objectName: "AUDOO.QZ", cx: 1020, cy: 773 },
     { id: "v66", objectName: null, cx: 1154.6, cy: 735.6 },
-    { id: "v67", objectName: "Арендатор 315", cx: 1154.6, cy: 720.6 },
+    { id: "v67", objectName: "Восточный регион", cx: 1154.6, cy: 720.6 },
     { id: "v68", objectName: null, cx: 1209.7, cy: 735.6 },
     { id: "v69", objectName: "ЭкоФармИнтернейшнл", cx: 1209.7, cy: 720.6, },
     { id: "v70", objectName: null, cx: 1291.5, cy: 735.6 },
@@ -88,7 +88,7 @@ export const graphDataThird: GraphDataThird = {
     { id: "v75", objectName: "Business Pulse", cx: 430.4, cy: 573.7 },
     { id: "v76", objectName: "EVS GROUP", cx: 547.3, cy: 549.1 },
     { id: "v77", objectName: null, cx: 205.4, cy: 578.2 },
-    { id: "v78", objectName: "НҰР АСТАНА ҚҰРЫЛЫС", cx: 191.3, cy: 578.2 },
+    { id: "v78", objectName: "B.S. Construction", cx: 191.3, cy: 578.2 },
   ],
 
   edges: [

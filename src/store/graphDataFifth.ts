@@ -77,7 +77,7 @@ export const graphDataFifth: GraphDataFifth = {
     { id: "v64", objectName: null, cx: 1033.6, cy: 773 },
     { id: "v65", objectName: "ТechnoStan", cx: 1020, cy: 773 },
     { id: "v66", objectName: null, cx: 1154.6, cy: 735.6 },
-    { id: "v67", objectName: "Арендатор 515", cx: 1154.6, cy: 720.6 },
+    { id: "v67", objectName: "Стандарт Трест ТОО", cx: 1154.6, cy: 720.6 },
     { id: "v68", objectName: null, cx: 1209.7, cy: 735.6 },
     { id: "v69", objectName: "Арендатор 514", cx: 1209.7, cy: 720.6 },
     { id: "v70", objectName: null, cx: 1291.5, cy: 735.6 },

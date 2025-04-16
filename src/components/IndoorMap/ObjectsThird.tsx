@@ -96,7 +96,7 @@ function ObjectsThird({ handleObjectClick, className }: ObjectsThirdProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="НҰР АСТАНА ҚҰРЫЛЫС"
+        id="B.S. Construction"
         className={`${className} object`}
         d="M191.3 594.3v-81.9H4.1v81.9h187.2z"
         onClick={handleObjectClick}
@@ -126,7 +126,7 @@ function ObjectsThird({ handleObjectClick, className }: ObjectsThirdProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 322"
+        id="NKLogistic Group"
         className={`${className} object`}
         d="M501.8 691.3v-97h-72.1v97h72.1z"
         onClick={handleObjectClick}
@@ -156,7 +156,7 @@ function ObjectsThird({ handleObjectClick, className }: ObjectsThirdProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 315"
+        id="Восточный регион"
         className={`${className} object`}
         d="M1020.4 685.7h55c0 11.8 0 23.6-.2 35.3h105.1V566.1h-159.9v119.5Z"
         onClick={handleObjectClick}

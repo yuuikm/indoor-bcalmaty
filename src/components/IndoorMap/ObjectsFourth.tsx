@@ -54,7 +54,7 @@ function ObjectsFourth({ handleObjectClick, className }: ObjectsFourthProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 411"
+        id="ГККП «ШВСМ» Управления Спорта г.Алматы"
         className={`${className} object`}
         d="M1458.4 518.6V237.7h-144v280.9h144z"
         onClick={handleObjectClick}
@@ -144,7 +144,7 @@ function ObjectsFourth({ handleObjectClick, className }: ObjectsFourthProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 418"
+        id="Amidina kids"
         className={`${className} object`}
         d="M764.1 691.3V565.4h-75.8v125.9h75.8z"
         onClick={handleObjectClick}
@@ -156,7 +156,7 @@ function ObjectsFourth({ handleObjectClick, className }: ObjectsFourthProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 415"
+        id="ГККП «ШВСМ» Управления Спорта г.Алматы"
         className={`${className} object`}
         d="M1020.4 685.7h55c0 11.8 0 23.6-.2 35.3h105.1V566.1h-159.9v119.5Z"
         onClick={handleObjectClick}

@@ -60,13 +60,13 @@ function ObjectsSeven({ handleObjectClick, className }: ObjectsSevenProps) {
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 705"
+        id="MehKaz ТОО"
         className={`${className} object`}
         d="M761.6 805.5c.3-14.1.5-28.2.7-42.5.7-54.7.4-108.3-.7-161h84.1v90.8h189.8v112.7H761.6Z"
         onClick={handleObjectClick}
       />
       <path
-        id="Арендатор 706"
+        id="ANILMANTRA-KZ (Анилмантра-кз), Legal Point&HR Advisory"
         className={`${className} object`}
         d="M1051.6 517.7V339.5H762.4v178.2h289.2z"
         onClick={handleObjectClick}
