@@ -15,10 +15,6 @@ function Objects({ floor, handleObjectClick, className }: ObjectsProps) {
             try {
                 let imported;
                 switch (floor) {
-                    case 0:
-                        imported = await import("floors/floor6/Objects");
-                        setObjects(imported.default);
-                        break;
                     case 1:
                         imported = await import("floors/floor1/Objects");
                         setObjects(imported.default);
@@ -37,6 +33,14 @@ function Objects({ floor, handleObjectClick, className }: ObjectsProps) {
                         break;
                     case 5:
                         imported = await import("floors/floor5/Objects");
+                        setObjects(imported.default);
+                        break;
+                    case 6:
+                        imported = await import("floors/floor6/Objects");
+                        setObjects(imported.default);
+                        break;
+                    case 7:
+                        imported = await import("floors/floor7/Objects");
                         setObjects(imported.default);
                         break;
                     default:

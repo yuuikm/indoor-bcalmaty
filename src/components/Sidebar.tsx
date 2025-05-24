@@ -1,4 +1,4 @@
-import logo from "assets/img/abai-logo.svg";
+import logo from "assets/img/stanica-logo.svg";
 import { FiChevronRight } from "react-icons/fi";
 import { useContext, useEffect, useState } from "react";
 import {
@@ -91,7 +91,7 @@ function Sidebar() {
         <div className="flex items-center flex-none mr-10">
             <img
               src={logo}
-              alt="AbaiMap"
+              alt="BcAlmaty"
             />
         </div>
       </header>

@@ -26,7 +26,7 @@ function FloorSwitcher() {
     navigate(`/${newFloor}?position=${defaultStart}`);
   };
 
-  const floors = [0, 1, 2, 3, 4, 5];
+  const floors = [1, 2, 3, 4, 5, 6, 7];
 
   return (
     <div className="flex items-center gap-2 bg-gray-100 p-2 rounded-lg">

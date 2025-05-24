@@ -111,8 +111,7 @@ function SearchBar() {
       }
     }
 
-    const match = matchingObject.name.match(/\d+/);
-    const targetFloor = match ? parseInt(match[0]) : 0;
+    const targetFloor = parseInt(matchingObject.categoryId.replace("f", ""));
     const newStart = defaultPositionsByFloor[targetFloor];
 
     if (navigation.floor === targetFloor) {

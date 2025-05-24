@@ -30,11 +30,8 @@ function Positions({
       try {
         let imported;
         switch (floor) {
-          case 0:
-            imported = await import("floors/floor6/graphData");
-            break;
           case 1:
-            imported = await import("../../floors/floor1/graphData");
+            imported = await import("floors/floor1/graphData");
             break;
           case 2:
             imported = await import("../../floors/floor2/graphData");
@@ -46,7 +43,13 @@ function Positions({
             imported = await import("../../floors/floor4/graphData");
             break;
           case 5:
-            imported = await import("floors/floor5/graphData");
+            imported = await import("../../floors/floor5/graphData");
+            break;
+          case 6:
+            imported = await import("floors/floor6/graphData");
+            break;
+          case 7:
+            imported = await import("floors/floor7/graphData");
             break;
           default:
             imported = { graphData: { vertices: [], edges: [] } };

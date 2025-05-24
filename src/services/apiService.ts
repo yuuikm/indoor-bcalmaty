@@ -1,6 +1,6 @@
 import axios from "axios";
 
-export const API_BASE_URL = "https://yuuikm.github.io/abai-bc-api/db.json";
+export const API_BASE_URL = "https://yuuikm.github.io/bc-api/db.json";
 
 const apiService = axios.create({
   baseURL: API_BASE_URL,

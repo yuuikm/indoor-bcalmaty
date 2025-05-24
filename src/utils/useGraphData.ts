@@ -12,9 +12,6 @@ export default function useGraphData(floor: number): GraphData {
       try {
         let imported;
         switch (floor) {
-          case 0:
-            imported = await import("floors/floor6/graphData");
-            break;
           case 1:
             imported = await import("floors/floor1/graphData");
             break;
@@ -29,6 +26,12 @@ export default function useGraphData(floor: number): GraphData {
             break;
           case 5:
             imported = await import("floors/floor5/graphData");
+            break;
+          case 6:
+            imported = await import("floors/floor6/graphData");
+            break;
+          case 7:
+            imported = await import("floors/floor7/graphData");
             break;
           default:
             imported = { graphData: { vertices: [], edges: [] } };
