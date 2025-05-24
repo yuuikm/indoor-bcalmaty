@@ -22,7 +22,7 @@ function Map() {
   const { floorNumber } = useParams<{ floorNumber: string }>();
   const [searchParams] = useSearchParams();
 
-  const floor = Number(floorNumber) || 0;
+  const floor = Number(floorNumber) || 1;
 
   const [navigation, setNavigation] = useState<Navigation>({
     start: "",
