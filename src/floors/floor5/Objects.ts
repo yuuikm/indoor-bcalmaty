@@ -18,7 +18,7 @@ const floor5Objects: FloorObject[] = [
     d: 'M374.9 640.6V510h-45.5V640.6h45.5z',
   },
   {
-    id: 'Арендатор 502',
+    id: 'VitaCall',
     d: 'M405.1 413.9V238.3H117.3v101.3h102.5v74.3h185.3Z',
   },
   {
@@ -34,11 +34,11 @@ const floor5Objects: FloorObject[] = [
     d: 'M1282.1 507.8V304.6h-49.7v-66.3h-186.1v66.3h29.1v203.2h206.7Z',
   },
   {
-    id: 'Арендатор 511',
+    id: 'AYVAZ KAZAKHSTAN ТОО',
     d: 'M1458.4 518.6V237.7h-144v280.9h144z',
   },
   {
-    id: 'Арендатор 512',
+    id: 'ULY DALA',
     d: 'M1436.4 686.7h22.3c0-15.5-.2-31-.3-46.5V518.6h-144V721h122v-34.4Z',
   },
   {
@@ -86,15 +86,15 @@ const floor5Objects: FloorObject[] = [
     d: 'M501.8 691.3v-97h-72.1v97h72.1z',
   },
   {
-    id: 'Арендатор 521',
+    id: 'Certificate-test ТОО',
     d: 'M602.9 691.3v-97H501.8v97h101.1z',
   },
   {
-    id: 'Асылханов',
+    id: 'ERCAR EXPORT',
     d: 'M688.3 691.3V565.4h-85.4v125.9h85.4z',
   },
   {
-    id: 'Architects',
+    id: 'Radiance Architects',
     d: 'M764.1 691.3V565.4h-75.8v125.9h75.8z',
   },
   {

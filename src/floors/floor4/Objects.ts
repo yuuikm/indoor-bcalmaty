@@ -38,7 +38,7 @@ const floor4Objects: FloorObject[] = [
     d: 'M1436.4 686.7h22.3c0-15.5-.2-31-.3-46.5V518.6h-144V721h122v-34.4Z',
   },
   {
-    id: 'Арендатор 413',
+    id: 'Hericium-Rex, ТОО «Сертификация и безопасность» Обучение и выдача сертификатов для юридических лиц, WLS KZ',
     d: 'M1386 811.3h50.4v-61.7h-389.8V891H1020v20.4h366V811.3Z',
   },
   {
@@ -46,7 +46,7 @@ const floor4Objects: FloorObject[] = [
     d: 'M970.4 794h49.8v-75.1H874.8v192.4h95.7V793.9h-.1Z',
   },
   {
-    id: 'REINA GROUP ТОО',
+    id: 'Salyk Consulting',
     d: 'M874.7 911.4V719H429.6v74.8c16.3 0 32.6.2 49 .3v117.4h396.1Z',
   },
   {
@@ -62,7 +62,7 @@ const floor4Objects: FloorObject[] = [
     d: 'M191.3 594.3v-81.9H4.1v81.9h187.2z',
   },
   {
-    id: 'TPRESS',
+    id: 'ТОО “Duoturk”, ТОО “TPRESS”',
     d: 'M191.3 512.4V369.8H4.1v142.6h187.2z',
   },
   {
@@ -82,7 +82,7 @@ const floor4Objects: FloorObject[] = [
     d: 'M501.8 691.3v-97h-72.1v97h72.1z',
   },
   {
-    id: 'Арендатор 421',
+    id: 'REINA Group ТОО',
     d: 'M602.9 691.3v-97H501.8v97h101.1z',
   },
   {

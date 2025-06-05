@@ -50,7 +50,7 @@ const floor1Objects: FloorObject[] = [
     d: "M1011.3 698.5V556.2h-77.4v142.3h77.4z",
   },
   {
-    id: "Арендатор 112",
+    id: "MM Dent",
     d: "M933.3 728v173.1h187.5V728H933.3z",
   },
   {

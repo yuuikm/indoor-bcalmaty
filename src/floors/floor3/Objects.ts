@@ -34,7 +34,7 @@ const floor3Objects: FloorObject[] = [
     d: 'M1282.1 507.8V304.6h-49.7v-66.3h-186.1v66.3h29.1v203.2h206.7Z',
   },
   {
-    id: 'Арендатор 311',
+    id: 'WANO Group',
     d: 'M1458.4 518.6V237.7h-144v280.9h144z',
   },
   {

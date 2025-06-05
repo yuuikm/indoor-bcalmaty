@@ -58,7 +58,7 @@ export const graphData: GraphData = {
     { id: "v41", objectName: null, cx: 1059.6, cy: 422.7 },
     { id: "v42", objectName: "Арендатор 310", cx: 1075.1, cy: 422.7 },
     { id: "v43", objectName: null, cx: 1298.6, cy: 366.9 },
-    { id: "v44", objectName: "Арендатор 311", cx: 1314.4, cy: 366.9 },
+    { id: "v44", objectName: "WANO Group", cx: 1314.4, cy: 366.9 },
     { id: "v45", objectName: null, cx: 529.3, cy: 705.7 },
     { id: "v46", objectName: "DIAMOND", cx: 529.3, cy: 691.3 },
     { id: "v47", objectName: null, cx: 564.9, cy: 705.7 },
